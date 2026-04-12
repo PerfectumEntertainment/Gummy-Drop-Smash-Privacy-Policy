@@ -22,7 +22,7 @@ This data is collected only for analytics, advertising, and improving the Game.
 
 2. Advertising and Third-Party Services
 
-The Game contains advertisements provided by Google AdMob. Ads may use:
+The Game contains advertisements provided by Google AdMob. Advertising may be personalized or non-personalized depending on user consent. Ads may use:
 
 Remarketing / interest-based advertising
 Anonymous identifiers (GAID)
@@ -32,13 +32,13 @@ We do not share personal information directly with advertisers. However, data ma
 
 These third-party services may process data outside your country of residence.
 
-Users in the European Economic Area (EEA) may be presented with a consent request for personalized ads. You can manage or withdraw your consent at any time through your device settings or consent form (if available).
+Users in the European Economic Area (EEA) are shown a consent form for personalized and non-personalized advertising in accordance with GDPR requirements. You can manage or withdraw your consent at any time through your device settings or via the consent management tool provided in the application (if available).
 
 For more information on how Google uses data, please visit: https://policies.google.com/technologies/ads
 
 3. Data Storage
 
-All technical and gameplay data is stored locally on your device or collected by third-party services (AdMob, Firebase, Play Console).
+All technical and gameplay data is either stored locally on your device or collected by third-party services (such as Google AdMob, Firebase, and Google Play services).
 
 We do not store any personal identifiers such as name, email, phone number, or payment info.
 
